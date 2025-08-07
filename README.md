@@ -161,19 +161,5 @@ We welcome contributions to **SeqRefiner**! To contribute:
 
 ---
 
-## License
-
-**SeqRefiner** is open-source software released under the **MIT License**.
-
----
-
-### **Suggestions for Improving the README:**
-
-1. **Add Example Output Files**: For example, include sample outputs like `cluster_amr_summary.csv`, `umap_clusters_by_amr.png`, etc., so users know what to expect.
-2. **Add a Section on Input Data Format**: Provide clear instructions on the format for **input FASTA files** and **reference datasets**.
-3. **Add Instructions for Running in Parallel**: If the pipeline is expected to handle large datasets, suggest **parallelization options** or **batch processing** methods.
-
----
-
 Feel free to adjust the README based on your project’s specific needs or additional details. If you'd like any section to be enhanced further, let me know!
 
